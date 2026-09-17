@@ -1,0 +1,3 @@
+construct_id,prrsv_type,num_epitopes,length_nt,GC_percent,CAI
+Type_I_Construct_1,Type I,15,681,51.1,0.696
+Type_II_Construct_1,Type II,15,681,50.51,0.647

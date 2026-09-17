@@ -1,0 +1,3 @@
+construct_id,prrsv_type,num_epitopes,length_nt,GC_percent,length_kb,stability_index,encapsulation_efficiency,delivery_stability,delivery_index,mean_immunogenicity,in_silico_model_score,prioritization_index
+Type_I_Construct_1,Type I,15,681,59.18,0.681,0.4237287999999999,0.8748464111740142,0.7846228889392114,0.839,0.8917432098765431,0.7939618312325732,0.827
+Type_II_Construct_1,Type II,15,681,49.34,0.681,0.3438998,0.65,0.58877996,0.626,0.9407364197530865,0.63642606639438,0.694

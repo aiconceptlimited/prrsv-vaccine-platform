@@ -1,0 +1,3 @@
+construct_id,sequence_length,GC_percent,CAI,host_organism,codon_reference_status,codon_reference_source
+Type_I_Construct_1,681,59.18,0.7157,Sus scrofa,validated_frozen_kazusa_9823,http://www.kazusa.or.jp/codon/current/species/9823
+Type_II_Construct_1,681,49.34,0.6968,Sus scrofa,validated_frozen_kazusa_9823,http://www.kazusa.or.jp/codon/current/species/9823

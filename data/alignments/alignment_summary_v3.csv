@@ -1,0 +1,3 @@
+type,num_sequences,alignment_length,gap_fraction,avg_identity
+Type I,40,619,0.025,0.7791
+Type II,40,603,0.0001,0.9335

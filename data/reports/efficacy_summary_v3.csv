@@ -1,0 +1,3 @@
+prrsv_type,mean_predicted_model_score,mean_vaccine_index,mean_GC_percent
+Type I,0.7703640391086417,0.813,51.1
+Type II,0.6384902135183113,0.695,50.51

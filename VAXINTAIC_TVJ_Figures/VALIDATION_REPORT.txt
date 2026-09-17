@@ -1,0 +1,49 @@
+VAXINTAIC TVJ PUBLICATION FIGURE VALIDATION
+=======================================================
+
+Pipeline run ID: 20260907T105902Z_7f5df939430f
+Generated UTC: 2026-09-07T20:33:54.359392+00:00
+
+SOURCE DATA CHECKS
+------------------
+Screening records: 14,764 ✓
+Type I screening records: 7,332 ✓
+Type II screening records: 7,432 ✓
+Ranked candidates: 30 ✓
+Type I ranked candidates: 15 ✓
+Type II ranked candidates: 15 ✓
+
+SEQUENCE CHECKS
+---------------
+All screening peptides are 15 aa: PASS ✓
+All screening records are amino-acid records: PASS ✓
+Ranked candidates linked to screening data: PASS ✓
+Construct metadata records: 2 ✓
+Construct length: 681 nt each ✓
+Construct FASTA terminal stop codons: PASS ✓
+Construct FASTA internal stop codons: 0 ✓
+
+ALIGNMENT-DERIVED VALUES
+-------------------------
+Type I mean identity: 0.779059
+Type I mean gap fraction: 0.034472
+Type I conserved positions: 251
+Type I variable positions: 368
+Type I dominance-complement: 0.150536
+
+Type II mean identity: 0.933546
+Type II mean gap fraction: 0.000249
+Type II conserved positions: 382
+Type II variable positions: 221
+Type II dominance-complement: 0.039350
+
+FIGURE GENERATION
+------------------
+Figure 1: PASS ✓
+Figure 2: PASS ✓
+Figure 3: PASS ✓
+Figure 4: PASS ✓
+
+Synthetic/random scientific data generated: NO ✓
+
+STATUS: AUTHORITATIVE SOURCE FILES VALIDATED

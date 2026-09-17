@@ -1,0 +1,79 @@
+{
+  "project": "VAXINTAIC",
+  "purpose": "The Veterinary Journal publication figure generation",
+  "pipeline_run_id": "20260907T105902Z_7f5df939430f",
+  "generated_utc": "2026-09-07T20:33:54.362887+00:00",
+  "project_root": ".",
+  "output_directory": "VAXINTAIC_TVJ_Figures",
+  "python_version": "3.12.3 (main, Jul 15 2026, 23:46:41) [GCC 13.3.0]",
+  "platform": "Linux-6.8.0-86-generic-x86_64-with-glibc2.39",
+  "random_scientific_data_generated": false,
+  "inputs": {
+    "data/epitopes/epitope_predictions_v3.csv": {
+      "sha256": "145359636d64560ad726ec2a86fcf3dab39771356f9eb656ecaf1192673cfef7",
+      "size_bytes": 1179855
+    },
+    "data/candidates/top_epitopes_v3.csv": {
+      "sha256": "8179a258ba7017b3445ebdf80cca5b6b69d8ee87cae470005c1daffa10380a21",
+      "size_bytes": 4661
+    },
+    "data/mrna/mrna_construct_metadata.csv": {
+      "sha256": "8851d28d249f0f78c5fdd91f56e06df47c150ea1b2946f764373e595a1758992",
+      "size_bytes": 153
+    },
+    "data/mrna/mrna_constructs_v3.fasta": {
+      "sha256": "5ee29396a03f4756134da746abcf2a200f7ee23522421e182146f0403ceddd6a",
+      "size_bytes": 1492
+    },
+    "data/models/nanoparticle_model_v3.csv": {
+      "sha256": "0d0eac790cfec40e447709c1131892ca8c307900511ee05246f7368554296621",
+      "size_bytes": 346
+    },
+    "data/reports/model_scores_v3.csv": {
+      "sha256": "475aa07d864e3b6fb809be083068e4d1bb5ba8dbb4d8c275a6e6fc7f45d15090",
+      "size_bytes": 473
+    },
+    "data/alignments/prrsv_typei_aligned.fasta": {
+      "sha256": "623122f2881812ea23d5b5b3f873315eb49968bff1088a5ce2cf6cad006f94e9",
+      "size_bytes": 30279
+    },
+    "data/alignments/prrsv_typeii_aligned.fasta": {
+      "sha256": "3d5f192b457689ee7b1e3266263b0415ed05e85527b281c7e0633c9e35cca232",
+      "size_bytes": 30036
+    }
+  },
+  "outputs": {
+    "Figure_1_VAXINTAIC_workflow.pdf": {
+      "sha256": "21956e21325062d41f9a5f057458c9979a314aa1cb44923d5adbf0da945c3218",
+      "size_bytes": 26280
+    },
+    "Figure_1_VAXINTAIC_workflow.tiff": {
+      "sha256": "bef8d2f8946334033bc6dd1ee6d57e9218d36bf3860e249209a25a7321500339",
+      "size_bytes": 1077578
+    },
+    "Figure_2_PRSV_diversity_alignment.pdf": {
+      "sha256": "9dd5e1022cfa5c3d70c8bb643baf3f32d3904724a3496011f364c9a6510e7857",
+      "size_bytes": 24850
+    },
+    "Figure_2_PRSV_diversity_alignment.tiff": {
+      "sha256": "813047ece13c5498297001d2ad69b5819f44b940e542c6b3afc776751d74c571",
+      "size_bytes": 1811490
+    },
+    "Figure_3_peptide_candidate_landscape.pdf": {
+      "sha256": "6c4f4b1c900fe2c3da9148480557ccf237652d1b0648a355725faca0714df73e",
+      "size_bytes": 31636
+    },
+    "Figure_3_peptide_candidate_landscape.tiff": {
+      "sha256": "aea735d9ae9f2d9fc7f60e8554d037b69e68f16a693d97c2224fff476c65a39a",
+      "size_bytes": 3012492
+    },
+    "Figure_4_construct_prioritization.pdf": {
+      "sha256": "695b1bfbb7d73897e2678a0886410bc3614a0996ff524c36f7c76d554f01e157",
+      "size_bytes": 20955
+    },
+    "Figure_4_construct_prioritization.tiff": {
+      "sha256": "a3511d89d9adfdbf1c4e09c0693b2838a945f368fd0d7c23002e4978c56c793b",
+      "size_bytes": 2731710
+    }
+  }
+}

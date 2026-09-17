@@ -1,0 +1,6 @@
+VAXINTAIC PUBLICATION DATA VALIDATION REPORT
+======================================================================
+
+Generated: 2026-09-08 18:18:46
+STATUS: PUBLICATION DATA VERIFIED
+No synthetic/fabricated data used.

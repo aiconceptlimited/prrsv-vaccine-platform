@@ -1,0 +1,12 @@
+Parameter,Type I Construct,Type II Construct
+Genotype,Type I,Type II
+Nucleotide length (nt),681,681
+Amino acid length (aa) + terminal stop,226 + stop,226 + stop
+GC content (%),51.10,50.51
+Codon Adaptation Index (CAI),0.697,0.647
+Mean immunogenicity score,0.892,0.941
+Encapsulation-efficiency estimate,0.875,0.650
+Delivery-stability estimate,0.771,0.585
+Delivery index,0.833,0.624
+Model score,0.770,0.638
+Vaccine prioritization index,0.813,0.695

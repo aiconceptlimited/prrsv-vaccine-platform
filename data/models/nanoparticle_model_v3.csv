@@ -1,0 +1,3 @@
+construct_id,prrsv_type,num_epitopes,length_nt,GC_percent,CAI,length_kb,stability_index,encapsulation_efficiency,delivery_stability,delivery_index
+Type_I_Construct_1,Type I,15,681,51.1,0.696,0.681,0.35565599999999997,0.8748464111740142,0.7710083289392113,0.833
+Type_II_Construct_1,Type II,15,681,50.51,0.647,0.681,0.3267997,0.65,0.58535994,0.624

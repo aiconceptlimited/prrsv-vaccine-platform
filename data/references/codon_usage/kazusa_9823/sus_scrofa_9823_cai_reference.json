@@ -1,0 +1,307 @@
+{
+  "AAA": {
+    "amino_acid": "K",
+    "count": 23681,
+    "relative_adaptiveness": 0.6132273351114794
+  },
+  "AAC": {
+    "amino_acid": "N",
+    "count": 25606,
+    "relative_adaptiveness": 1.0
+  },
+  "AAG": {
+    "amino_acid": "K",
+    "count": 38617,
+    "relative_adaptiveness": 1.0
+  },
+  "AAU": {
+    "amino_acid": "N",
+    "count": 16598,
+    "relative_adaptiveness": 0.6482074513785832
+  },
+  "ACA": {
+    "amino_acid": "T",
+    "count": 14403,
+    "relative_adaptiveness": 0.5444133655881463
+  },
+  "ACC": {
+    "amino_acid": "T",
+    "count": 26456,
+    "relative_adaptiveness": 1.0
+  },
+  "ACG": {
+    "amino_acid": "T",
+    "count": 9022,
+    "relative_adaptiveness": 0.34101905049894166
+  },
+  "ACU": {
+    "amino_acid": "T",
+    "count": 13038,
+    "relative_adaptiveness": 0.49281826428787423
+  },
+  "AGA": {
+    "amino_acid": "R",
+    "count": 12052,
+    "relative_adaptiveness": 0.8520325203252033
+  },
+  "AGC": {
+    "amino_acid": "S",
+    "count": 23327,
+    "relative_adaptiveness": 1.0
+  },
+  "AGG": {
+    "amino_acid": "R",
+    "count": 13258,
+    "relative_adaptiveness": 0.9372923294450336
+  },
+  "AGU": {
+    "amino_acid": "S",
+    "count": 11082,
+    "relative_adaptiveness": 0.4750718052042697
+  },
+  "AUA": {
+    "amino_acid": "I",
+    "count": 7191,
+    "relative_adaptiveness": 0.25008694442512347
+  },
+  "AUC": {
+    "amino_acid": "I",
+    "count": 28754,
+    "relative_adaptiveness": 1.0
+  },
+  "AUG": {
+    "amino_acid": "M",
+    "count": 25610,
+    "relative_adaptiveness": 1.0
+  },
+  "AUU": {
+    "amino_acid": "I",
+    "count": 15660,
+    "relative_adaptiveness": 0.5446198789733603
+  },
+  "CAA": {
+    "amino_acid": "Q",
+    "count": 11567,
+    "relative_adaptiveness": 0.2827287837309347
+  },
+  "CAC": {
+    "amino_acid": "H",
+    "count": 18267,
+    "relative_adaptiveness": 1.0
+  },
+  "CAG": {
+    "amino_acid": "Q",
+    "count": 40912,
+    "relative_adaptiveness": 1.0
+  },
+  "CAU": {
+    "amino_acid": "H",
+    "count": 9900,
+    "relative_adaptiveness": 0.5419609131220233
+  },
+  "CCA": {
+    "amino_acid": "P",
+    "count": 16692,
+    "relative_adaptiveness": 0.6470770662118158
+  },
+  "CCC": {
+    "amino_acid": "P",
+    "count": 25796,
+    "relative_adaptiveness": 1.0
+  },
+  "CCG": {
+    "amino_acid": "P",
+    "count": 9860,
+    "relative_adaptiveness": 0.38222980307024346
+  },
+  "CCU": {
+    "amino_acid": "P",
+    "count": 18561,
+    "relative_adaptiveness": 0.7195301597146845
+  },
+  "CGA": {
+    "amino_acid": "R",
+    "count": 6519,
+    "relative_adaptiveness": 0.4608695652173913
+  },
+  "CGC": {
+    "amino_acid": "R",
+    "count": 14145,
+    "relative_adaptiveness": 1.0
+  },
+  "CGG": {
+    "amino_acid": "R",
+    "count": 13943,
+    "relative_adaptiveness": 0.9857193354542241
+  },
+  "CGU": {
+    "amino_acid": "R",
+    "count": 4792,
+    "relative_adaptiveness": 0.3387769529869212
+  },
+  "CUA": {
+    "amino_acid": "L",
+    "count": 6653,
+    "relative_adaptiveness": 0.12342999202241146
+  },
+  "CUC": {
+    "amino_acid": "L",
+    "count": 27053,
+    "relative_adaptiveness": 0.5019016344780245
+  },
+  "CUG": {
+    "amino_acid": "L",
+    "count": 53901,
+    "relative_adaptiveness": 1.0
+  },
+  "CUU": {
+    "amino_acid": "L",
+    "count": 13109,
+    "relative_adaptiveness": 0.24320513534071725
+  },
+  "GAA": {
+    "amino_acid": "E",
+    "count": 27310,
+    "relative_adaptiveness": 0.5684136036298547
+  },
+  "GAC": {
+    "amino_acid": "D",
+    "count": 33278,
+    "relative_adaptiveness": 1.0
+  },
+  "GAG": {
+    "amino_acid": "E",
+    "count": 48046,
+    "relative_adaptiveness": 1.0
+  },
+  "GAU": {
+    "amino_acid": "D",
+    "count": 22309,
+    "relative_adaptiveness": 0.6703828355069416
+  },
+  "GCA": {
+    "amino_acid": "A",
+    "count": 15141,
+    "relative_adaptiveness": 0.4094043209041992
+  },
+  "GCC": {
+    "amino_acid": "A",
+    "count": 36983,
+    "relative_adaptiveness": 1.0
+  },
+  "GCG": {
+    "amino_acid": "A",
+    "count": 10339,
+    "relative_adaptiveness": 0.27956087932293217
+  },
+  "GCU": {
+    "amino_acid": "A",
+    "count": 19642,
+    "relative_adaptiveness": 0.5311088878673985
+  },
+  "GGA": {
+    "amino_acid": "G",
+    "count": 18686,
+    "relative_adaptiveness": 0.623136692566779
+  },
+  "GGC": {
+    "amino_acid": "G",
+    "count": 29987,
+    "relative_adaptiveness": 1.0
+  },
+  "GGG": {
+    "amino_acid": "G",
+    "count": 21555,
+    "relative_adaptiveness": 0.7188114849768233
+  },
+  "GGU": {
+    "amino_acid": "G",
+    "count": 11651,
+    "relative_adaptiveness": 0.3885350318471338
+  },
+  "GUA": {
+    "amino_acid": "V",
+    "count": 6447,
+    "relative_adaptiveness": 0.1671419682671368
+  },
+  "GUC": {
+    "amino_acid": "V",
+    "count": 20245,
+    "relative_adaptiveness": 0.5248625946282277
+  },
+  "GUG": {
+    "amino_acid": "V",
+    "count": 38572,
+    "relative_adaptiveness": 1.0
+  },
+  "GUU": {
+    "amino_acid": "V",
+    "count": 10755,
+    "relative_adaptiveness": 0.2788292025303329
+  },
+  "UAC": {
+    "amino_acid": "Y",
+    "count": 22023,
+    "relative_adaptiveness": 1.0
+  },
+  "UAU": {
+    "amino_acid": "Y",
+    "count": 12717,
+    "relative_adaptiveness": 0.5774417654270535
+  },
+  "UCA": {
+    "amino_acid": "S",
+    "count": 10448,
+    "relative_adaptiveness": 0.4478929995284434
+  },
+  "UCC": {
+    "amino_acid": "S",
+    "count": 21586,
+    "relative_adaptiveness": 0.9253654563381489
+  },
+  "UCG": {
+    "amino_acid": "S",
+    "count": 5607,
+    "relative_adaptiveness": 0.24036524199425557
+  },
+  "UCU": {
+    "amino_acid": "S",
+    "count": 14246,
+    "relative_adaptiveness": 0.6107086209113902
+  },
+  "UGC": {
+    "amino_acid": "C",
+    "count": 16776,
+    "relative_adaptiveness": 1.0
+  },
+  "UGG": {
+    "amino_acid": "W",
+    "count": 17440,
+    "relative_adaptiveness": 1.0
+  },
+  "UGU": {
+    "amino_acid": "C",
+    "count": 10902,
+    "relative_adaptiveness": 0.649856938483548
+  },
+  "UUA": {
+    "amino_acid": "L",
+    "count": 6442,
+    "relative_adaptiveness": 0.11951540787740488
+  },
+  "UUC": {
+    "amino_acid": "F",
+    "count": 27973,
+    "relative_adaptiveness": 1.0
+  },
+  "UUG": {
+    "amino_acid": "L",
+    "count": 13518,
+    "relative_adaptiveness": 0.2507931207213224
+  },
+  "UUU": {
+    "amino_acid": "F",
+    "count": 18160,
+    "relative_adaptiveness": 0.6491974403889464
+  }
+}

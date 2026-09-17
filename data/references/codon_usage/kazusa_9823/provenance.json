@@ -1,0 +1,30 @@
+{
+  "organism": "Sus scrofa",
+  "taxon_id": 9823,
+  "kazusa_identifier": "9823",
+  "entry": "mam",
+  "source_database": "Kazusa Codon Usage Database",
+  "source_url": "http://www.kazusa.or.jp/codon/current/species/9823",
+  "format_url": "http://www.kazusa.or.jp/codon/current/CODON_LABEL",
+  "underlying_data_source": "NCBI-GenBank",
+  "underlying_release": "Flat File Release 160.0",
+  "underlying_release_date": "2007-06-15",
+  "cds_records": 2953,
+  "sense_codons": 61,
+  "stop_codons": [
+    "UAA",
+    "UAG",
+    "UGA"
+  ],
+  "total_sense_codon_counts": 1164809,
+  "derivation_method": "Aggregate codon counts across the 2953 Sus scrofa CDS records. For each amino-acid synonymous codon group, relative adaptiveness w(codon) = codon_count / maximum synonymous_codon_count.",
+  "raw_file": "kazusa_sus_scrofa_9823_raw.txt",
+  "raw_file_sha256": "0b955ac723bb7fcbb1931e6a684a7f330396914520f802ffdff9407ad1ec1c9e",
+  "format_file": "CODON_LABEL.txt",
+  "format_file_sha256": "58fbd167b5242fb5557d2997e438d4d77b0c63b861e6ab0dd250d7d2b322ed9a",
+  "derived_reference_file": "sus_scrofa_9823_cai_reference.json",
+  "derived_reference_sha256": "66024fc43601278384dcbcc9dbc245e79cdff5b1d0b4a4be514536b61028114f",
+  "retrieved_utc": "2026-09-07",
+  "status": "FROZEN_VALIDATED_REFERENCE",
+  "note": "This reference is derived from the Kazusa record and its stated NCBI-GenBank Release 160.0 source. It must not be represented as a current genome release."
+}

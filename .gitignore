@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+.venv_*/
+env/
+
+# Environment / credentials
+.env
+.env.*
+!.env.vaxintaic.example
+*.secret
+*.secrets
+*credentials*
+*password*
+
+# Logs and runtime files
+*.log
+logs/
+data/logs/
+*.pid
+*.lock
+
+# Local databases / database dumps
+*.db
+*.sqlite
+*.sqlite3
+*.sql
+config/database.json
+
+# Runtime/generated data
+data/run/
+data/runtime/
+data/cache/
+data/tmp/
+tmp/
+cache/
+
+# Generated model/runtime artifacts
+models/runtime/
+results/runtime/
+
+# Backups and temporary files
+*.bak
+*.backup
+*.backup.*
+*.save
+*.tmp
+*.temp
+*~
+*.before_fix*
+*.legacy*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local development
+*.swp
+*.swo

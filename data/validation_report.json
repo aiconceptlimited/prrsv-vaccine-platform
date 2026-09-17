@@ -1,0 +1,15 @@
+{
+  "timestamp": "2025-12-23T12:20:38.594200",
+  "total_expected_files": 7,
+  "valid_files": 4,
+  "validity_percentage": 57.14285714285714,
+  "details": {
+    "sequences/metadata.csv": false,
+    "analysis/diversity_profile.csv": true,
+    "epitopes/epitope_predictions.csv": false,
+    "candidates/top_epitopes.csv": true,
+    "mrna/codon_adaptation.csv": false,
+    "models/nanoparticle_model.csv": true,
+    "reports/efficacy_predictions_v2.csv": true
+  }
+}
